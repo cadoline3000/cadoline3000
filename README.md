@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cadoline3000
 - 👀 I’m interested in ...learning
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...wdym
+- 💞️ I’m looking to collaborate on ...open source projects
 - 📫 How to reach me ...creatorn45@gmail.com
 
 <!---
