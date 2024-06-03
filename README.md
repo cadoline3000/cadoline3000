@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cadoline3000
-- 👀 I’m interested in ...learning
-- 🌱 I’m currently learning ...python
+- 👋 Hi, Deepak this side
+- Electronics Engieneer
+- 🌱 Embedded hardware
 - 💞️ I’m looking to collaborate on ...open source projects
-- 📫 How to reach me ...creatorn45@gmail.com
+- 📫 deepak15112002@gmail.com
 
 <!---
 cadoline3000/cadoline3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
